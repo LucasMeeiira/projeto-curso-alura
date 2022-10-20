@@ -1,6 +1,6 @@
 # Meu segundo Projeto (projeto curso alura)
 
-### link do site : 
+### Dê uma olhada no projeto 👉   link do site :  https://projeto-curso-alura.vercel.app/
 
 <p>  ▫️ Nesse projeto eu ratifiquei o uso das tags, e principalmente de forma <strong>semântica</strong>. </p>
 
